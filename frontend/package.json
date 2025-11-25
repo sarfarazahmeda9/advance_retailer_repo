@@ -14,6 +14,7 @@
     "@chakra-ui/react": "^2.8.1",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
+    "advance_retailer": "file:..",
     "framer-motion": "^11.11.10",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -30,6 +31,6 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
-    "vite": "^7.2.2"
+    "vite": "^7.2.4"
   }
 }
